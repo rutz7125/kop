@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+img{
+width: 70%;
+margin-right: 5%;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 10px;
+
+}
+
+.container .text{
+    margin-top: 30px;
+}
+
+.text h1{
+    font-size: 60px;
+    font-family: 'Lato', sans-sarif;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.text p{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: 'Lobster', cursive;
+
+}
+
